@@ -1,1 +1,86 @@
-# Portofolio-Arslan
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portofolio Muhammad Arslan</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f5f5f5;
+      color: #333;
+      text-align: center;
+    }
+    header {
+      background: #4CAF50;
+      color: white;
+      padding: 20px;
+    }
+    section {
+      padding: 20px;
+    }
+    footer {
+      background: #222;
+      color: white;
+      padding: 10px;
+      margin-top: 20px;
+    }
+    iframe {
+      border-radius: 12px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Muhammad Arslan Alimuddin</h1>
+    <p>Pecinta Anime | Gamer</p>
+  </header>
+
+  <section>
+    <h2>Tentang Saya</h2>
+    <p>Nama: Muhammad Arslan Alimuddin</p>
+    <p>Umur: 12</p>
+    <p>Tanggal Lahir: 27 Desember 2012</p>
+    <p>Sekolah: BQ Islamic Boarding School</p>
+  </section>
+
+  <section>
+    <h2>Skill</h2>
+    <p>Gaming: 95%</p>
+  </section>
+
+  <section>
+    <h2>Hobi / Minat</h2>
+    <p>Nonton Anime & Main Game</p>
+  </section>
+
+  <section>
+    <h2>Galeri / Proyek</h2>
+    <img src="https://static.zerochan.net/Shiroko.full.3649907.jpg" alt="Shiroko Blue Archive" width="300">
+  </section>
+
+  <section>
+    <h2>Kontak</h2>
+    <p>WhatsApp: 0813-8505-2488</p>
+    <p>Instagram: <a href="https://www.instagram.com/eunchae9087/" target="_blank">@eunchae9087</a></p>
+  </section>
+
+  <section>
+    <h2>Musik Favorit</h2>
+    <!-- YouTube Embed: blue - yung kai -->
+    <iframe width="300" height="200"
+      src="(https://www.youtube.com/watch?v=98zHKN-xSHk)"
+      title="blue yung kai" frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen>
+    </iframe>
+  </section>
+
+  <footer>
+    <p>© 2025 Arslan - All Rights Reserved</p>
+  </footer>
+</body>
+</html>
